@@ -16,3 +16,4 @@ Quais foi o repositório de dados utilizados junto com o link do Kaggle
 
 O link do Github do projeto.
 https://github.com/CayoRyan/proj/edit/main/README.md
+https://github.com/CayoRyan/proj/blob/main/projeto_estatistica.ipynb
