@@ -8,5 +8,11 @@ Qual seu objetivo?
 
 O objetivo deste projeto é permitir que os alunos apliquem seus conhecimentos de Estatística e comecem a entrar na área de Data Science, utilizando a biblioteca Pandas para análise de dados e a biblioteca Dash para criar um dashboard interativo. Os alunos selecionarão um conjunto de dados do Kaggle, realizarão análises exploratórias, aplicarão tratamentos de dados e, por fim, criarão um dashboard que apresente visualizações significativas dos dados.
 
+Nome dos integrantes
+-Cayo Ryan
+
 Quais foi o repositório de dados utilizados junto com o link do Kaggle
 -https://www.kaggle.com/datasets/kianwee/agricultural-raw-material-prices-19902020
+
+O link do Github do projeto.
+https://github.com/CayoRyan/proj/edit/main/README.md
